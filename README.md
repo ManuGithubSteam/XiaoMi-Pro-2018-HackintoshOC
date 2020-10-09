@@ -1,5 +1,5 @@
 # XiaoMi-Pro-2018-HackintoshOC
-My notes and expiriances on how to install Mac OS on the Xiaomi Mi Notebook Pro 15.6 2018 - especially in Linux
+My notes and expiriances on how to install Mac OS on the Xiaomi Mi Notebook Pro 15.6 2018 - especially if your only daily driver is Linux as asecond system.
 
 See the Wiki.
 
